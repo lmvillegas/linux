@@ -4,9 +4,10 @@ Grub
 Cambio de skin  
 ==============
 
-Para poder cambiar el skin que viene por defecto de fedora es necesario editar el archivo /etc/default/grub de la siguiente manera
+Para poder cambiar el skin que viene por defecto de fedora es necesario editar el archivo ``/etc/default/grub`` de la siguiente manera
 
 .. code-block:: console
+
 GRUB_TIMEOUT=5
 GRUB_DISTRIBUTOR="$(sed 's, release .*$,,g' /etc/system-release)"
 GRUB_DEFAULT=saved
