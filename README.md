@@ -1,7 +1,7 @@
-Ops School Curriculum
+Linux Curriculum
 =====================
 [![Build Status](https://travis-ci.org/opsschool/curriculum.svg?branch=master)](https://travis-ci.org/opsschool/curriculum)
-[![GitHub issues](https://img.shields.io/github/issues/opsschool/curriculum.svg?maxAge=2592000)](https://github.com/opsschool/curriculum/issues)
+[![GitHub issues](https://img.shields.io/github/issues/opsschool/curriculum.svg?maxAge=2592000)](https://github.com/lmvillegas/linux/issues)
 
 [![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/Ops-School/)
 
