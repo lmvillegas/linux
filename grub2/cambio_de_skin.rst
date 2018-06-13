@@ -23,4 +23,3 @@ y se agrega o cambia la linea GRUB_THEME con la direccion del nuevo tema por lo 
 
 
 
-.. code-block:: console
